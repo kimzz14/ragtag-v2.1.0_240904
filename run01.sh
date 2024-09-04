@@ -1,0 +1,1 @@
+sh pipe/ragtag_scaffold.sh ref.fa hifiasm.asm.bp.p_ctg.fa
